@@ -3,10 +3,10 @@
 
 
 ### Table of contents 📑
-- [Project goal](https://github.com/toro-nicolas/my_ls#project-goal-)
-- [How to compile it ?](https://github.com/toro-nicolas/my_ls#how-to-compile-it--)
-- [How to use it ?](https://github.com/toro-nicolas/my_ls#how-to-use-it--)
-- [Final result on my.epitech.eu](https://github.com/toro-nicolas/my_ls#final-result-on-myepitecheu-)
+- [Project goal](https://github.com/toro-nicolas/my_sokoban#project-goal-)
+- [How to compile it ?](https://github.com/toro-nicolas/my_sokoban#how-to-compile-it--)
+- [How to use it ?](https://github.com/toro-nicolas/my_sokoban#how-to-use-it--)
+- [Final result on my.epitech.eu](https://github.com/toro-nicolas/my_sokoban#final-result-on-myepitecheu-)
 
 ### Project goal 🎯
 Reproduction of the sokoban game in C with ncurses.    
