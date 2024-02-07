@@ -1,6 +1,6 @@
 # my_sokoban 📦
 
-
+![my_sokoban](https://github.com/toro-nicolas/my_sokoban/assets/146118419/d760a37e-786f-482d-a1ef-abfe24c448e4)
 
 ### Table of contents 📑
 - [Project goal](https://github.com/toro-nicolas/my_sokoban#project-goal-)
